@@ -1,3 +1,3 @@
-![TCS](/images/Tata_Consultancy_Services_Logo.svg.png)
+![TCS](/images/tcs.png)
 
 [Tronc](https://www.videoindexer.ai/)
