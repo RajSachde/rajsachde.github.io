@@ -1,3 +1,3 @@
-![TCS](/images/tcs.png)
+![TCS](/images/TCS.png)
 
 [Tronc](https://www.videoindexer.ai/)
